@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Unit Conversion",
+  "version": "1.0",
+  "description": "A basic site that converts units from metric to imperial.",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
