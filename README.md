@@ -3,7 +3,7 @@ A site that converts in units in length, volume and mass at once!
 
 > Enter digit and get instant conersion.
 
-**RandomPasswordGenerator** iis a website that boost your productivity!
+**unitConversion** iis a website that boost your productivity!
 
 
 ## 🛠 Built With
